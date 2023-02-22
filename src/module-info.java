@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author zakii
- *
- */
-module GitPractice {
-}
