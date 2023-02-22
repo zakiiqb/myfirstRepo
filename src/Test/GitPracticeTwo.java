@@ -8,6 +8,8 @@ public class GitPracticeTwo {
 		System.out.println(a);
 		system.out.println("this is for pull practice");
 		
+		System.out.println("This is a practice for pull");
+		
 
 	}
 
